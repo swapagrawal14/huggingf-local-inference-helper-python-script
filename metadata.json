@@ -1,0 +1,5 @@
+{
+  "name": "Local AI inference helper",
+  "description": "Guide for model running locally from huggingface",
+  "requestFramePermissions": []
+}
